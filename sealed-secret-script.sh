@@ -1,5 +1,4 @@
 #!/bin/bash
-# olindhol@redhat.com & mgloerfe@redhat.com
 # Simple script for using sealed-secrets on OCP
 
 HELP() {
